@@ -1,2 +1,2 @@
-import streamlit  as st
-st.header('hello world')
+import streamlit as st
+st.header('hello people')
